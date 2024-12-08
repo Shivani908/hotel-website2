@@ -320,7 +320,7 @@ p {
   transition: all 400ms ease-in 0s;
 }
 
-/* .room-item:hover::before { */
+.room-item:hover::before {
   opacity: 0.6;
 }
 
